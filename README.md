@@ -30,7 +30,7 @@ pip install instagrapi
 2. Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/kullaniciadi/instagram-comment-bot.git
+git clone https://github.com/ibidi/instagram-manychat.git
 ```
 
 3. `config.json` dosyasını oluşturun:
