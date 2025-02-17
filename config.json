@@ -1,8 +1,27 @@
 {
     "username": "",
     "password": "",
-    "post_id": "https://instagram.com/p/ORNEK12345",
+    "targets": {
+        "post": {
+            "url": "https://instagram.com/p/ORNEK12345",
+            "enabled": false
+        },
+        "reels": {
+            "url": "https://www.instagram.com/reel/ORNEK67890",
+            "enabled": true
+        }
+    },
     "reply_message": "Yorumunuz için teşekkürler! Daha detaylı bilgi için DM'den ulaşabilirsiniz 🙏",
-    "comment_reply": "Kodu DM üzerinden ilettim 💛",
-    "trigger_word": "yapay zeka"
+    "comment_reply": "DM üzerinden ilettim 💛",
+    "trigger_word": "yapay zeka",
+    "dm_message": "Mesajınız için teşekkürler...",
+    "log_files": {
+        "success_log": "successful_interactions.txt",
+        "failed_log": "failed_interactions.txt"
+    },
+    "proxy": {
+        "enabled": false,
+        "http": "http://kullanici:sifre@proxy.adres:port",
+        "https": "https://kullanici:sifre@proxy.adres:port"
+    }
 } 

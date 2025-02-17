@@ -1,0 +1,11 @@
+ihsanbakidogann, 2025-02-16 17:31:35, reels, HATA: name 'self' is not defined
+ihsanbakidogann, 2025-02-16 17:31:35, reels, HATA: name 'self' is not defined
+ihsanbakidogann, 2025-02-16 17:33:30, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:33:30, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:33:30, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:35:59, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:35:59, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:35:59, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:37:02, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:37:02, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
+ihsanbakidogann, 2025-02-16 17:37:02, reels, HATA: invalid literal for int() with base 10: 'ihsanbakidogann'
