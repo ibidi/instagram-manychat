@@ -1,0 +1,37 @@
+{
+    "uuids": {
+        "phone_id": "1b434ce1-a7de-4d2e-a01d-5082ebab5cef",
+        "uuid": "3269f941-f186-4254-974a-373dbf8cdda9",
+        "client_session_id": "21ae19d4-a199-4f8b-a8ac-b4a77d03ba1d",
+        "advertising_id": "91b005d2-1fed-4e2f-8d7e-875ce77f1709",
+        "android_device_id": "android-06c407a54b181add",
+        "request_id": "80f4f5d6-ce7d-436d-b2a6-8ea782bca573",
+        "tray_session_id": "2a89f01f-422c-4edd-8f4c-ede405444649"
+    },
+    "mid": "Z7TKHAABAAEJVTCRjL1oIGYBhjld",
+    "ig_u_rur": null,
+    "ig_www_claim": null,
+    "authorization_data": {
+        "ds_user_id": "63988327274",
+        "sessionid": "63988327274%3AyKVkVacmfcUScl%3A13%3AAYe91eL-ixKYiZmOQVnHafDGD8twBw6b6mO_LJ4Psw"
+    },
+    "cookies": {},
+    "last_login": 1739901476.622727,
+    "device_settings": {
+        "app_version": "203.0.0.29.118",
+        "android_version": 26,
+        "android_release": "8.0.0",
+        "dpi": "480dpi",
+        "resolution": "1080x1920",
+        "manufacturer": "Samsung",
+        "device": "SM-G950F",
+        "model": "G950F",
+        "cpu": "universal8895",
+        "version_code": "314665256"
+    },
+    "user_agent": "Instagram 269.0.0.18.75 Android (26/8.0.0; 480dpi; 1080x1920; OnePlus; 6T Dev; devitron; qcom; tr_TR; 314665256)",
+    "country": "TR",
+    "country_code": 90,
+    "locale": "tr_TR",
+    "timezone_offset": -14400
+}
